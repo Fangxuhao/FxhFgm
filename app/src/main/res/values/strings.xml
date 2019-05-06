@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FXH</string>
+    <string name="fxh">\@fxh</string>
 </resources>

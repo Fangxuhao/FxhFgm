@@ -1,0 +1,11 @@
+<litepal>
+    <dbname value="fxh_weather"/>
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.fxhfgm.fxh.domain.City"/>
+        <mapping class="com.fxhfgm.fxh.domain.Province"/>
+        <mapping class="com.fxhfgm.fxh.domain.County"/>
+    </list>
+
+</litepal>
